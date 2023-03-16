@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{d235581f-9210-401c-b542-80453cfc3d58}">
+		<property name="name">
+			<value>Asteroid</value>
+		</property>
+		<relationship name="folder">
+			<destination>{de41f21b-ebbc-48e3-abe6-c2d855bace80}</destination>
+		</relationship>
+	</object>
+</objects>
