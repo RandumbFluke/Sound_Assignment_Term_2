@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d9562527-9c9b-4ccf-a59a-b0147f0e7fa4}">
+		<property name="assetPath">
+			<value>Asteroid/Collision_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.36666666666666664</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a2fd8516-6088-4638-8ded-cab44f24b0ae}</destination>
+		</relationship>
+	</object>
+</objects>

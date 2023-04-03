@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f0255b12-f667-4b08-9d11-670abf2d75f2}">
+		<property name="assetPath">
+			<value>Mine/Mine_Explosion_gfdg.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5333333333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a2fd8516-6088-4638-8ded-cab44f24b0ae}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -28,6 +28,9 @@
 		<relationship name="timeline">
 			<destination>{37c3c13e-6d57-4cf6-8e16-ee006bc08d52}</destination>
 		</relationship>
+		<relationship name="parameters">
+			<destination>{71492a62-d01c-4724-b67d-977e44676f67}</destination>
+		</relationship>
 		<relationship name="banks">
 			<destination>{42ef8fe9-96ff-4723-afec-a7b505be5847}</destination>
 		</relationship>
@@ -55,10 +58,11 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{5ba5a8d3-ce7b-4ad2-a880-41ea2c5e43ba}" />
 	<object class="MarkerTrack" id="{448b3472-b835-43c5-9b09-b2ddf62143da}" />
-	<object class="Timeline" id="{37c3c13e-6d57-4cf6-8e16-ee006bc08d52}">
-		<property name="isProxyEnabled">
-			<value>false</value>
-		</property>
+	<object class="Timeline" id="{37c3c13e-6d57-4cf6-8e16-ee006bc08d52}" />
+	<object class="ParameterProxy" id="{71492a62-d01c-4724-b67d-977e44676f67}">
+		<relationship name="preset">
+			<destination>{f7dd4e56-79a5-4890-aedf-297b8b11998a}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{ce34c181-28f4-46a2-be30-390d557b1e22}">
 		<relationship name="effectChain">
